@@ -23,6 +23,42 @@ proxies:
   - {name: 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4, server: t7.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, sni: t7.ssrsub.com}
   - {name: 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5, server: t4.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, sni: t4.ssrsub.com}
   - {name: 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6, server: t5.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, sni: t5.ssrsub.com}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2, server: 198.57.27.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 美国 6, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 美国 7, server: 138.199.42.170, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 1, server: 185.76.8.218, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 2, server: 185.76.8.218, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 3, server: 185.76.8.218, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 4, server: 185.76.8.218, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 5, server: 185.76.8.218, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 6, server: 185.76.8.218, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 7, server: 185.76.8.218, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 8, server: 185.76.8.218, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 9, server: 185.76.8.218, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 10, server: 185.76.8.218, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 11, server: 185.76.8.218, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7, server: v8.ssrsub.com, port: 8443, type: vmess, uuid: e54a480c-77e3-41ca-8f8b-17ffb50dbd08, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v8.ssrsub.com}}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 12, server: 185.76.8.218, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 13, server: 185.76.8.218, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 14, server: 185.76.8.218, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 15, server: 185.76.8.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: reurl.cc/MkVoEW -- 斯洛伐克 16, server: 185.76.8.218, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 美国 8, server: 198.147.22.87, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 美国 9, server: 198.147.22.87, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 美国 10, server: 198.147.22.87, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3, server: 198.57.27.218, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4, server: 198.57.27.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5, server: 198.57.27.218, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7, server: 198.57.27.218, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: reurl.cc/MkVoEW -- 挪威 2, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇬🇧 reurl.cc/MkVoEW -- 英国 1, server: 145.239.1.137, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1, server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1, server: 138.199.42.170, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
+  - {name: 🇬🇧 reurl.cc/MkVoEW -- 英国 2, server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: reurl.cc/MkVoEW -- 挪威 3, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: reurl.cc/MkVoEW -- 挪威 4, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -47,6 +83,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -71,6 +143,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -95,6 +203,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
   - name: 📲 电报信息
     type: select
     proxies:
@@ -118,6 +262,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -141,6 +321,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -164,6 +380,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -188,6 +440,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -228,6 +516,42 @@ proxy-groups:
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 4
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 5
       - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 2
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 1
+      - reurl.cc/MkVoEW -- 斯洛伐克 2
+      - reurl.cc/MkVoEW -- 斯洛伐克 3
+      - reurl.cc/MkVoEW -- 斯洛伐克 4
+      - reurl.cc/MkVoEW -- 斯洛伐克 5
+      - reurl.cc/MkVoEW -- 斯洛伐克 6
+      - reurl.cc/MkVoEW -- 斯洛伐克 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 8
+      - reurl.cc/MkVoEW -- 斯洛伐克 9
+      - reurl.cc/MkVoEW -- 斯洛伐克 10
+      - reurl.cc/MkVoEW -- 斯洛伐克 11
+      - 🇷🇺 reurl.cc/MkVoEW -- 俄罗斯 7
+      - reurl.cc/MkVoEW -- 斯洛伐克 12
+      - reurl.cc/MkVoEW -- 斯洛伐克 13
+      - reurl.cc/MkVoEW -- 斯洛伐克 14
+      - reurl.cc/MkVoEW -- 斯洛伐克 15
+      - reurl.cc/MkVoEW -- 斯洛伐克 16
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 8
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 9
+      - 🇺🇸 reurl.cc/MkVoEW -- 美国 10
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 3
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 4
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 5
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 6
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 7
+      - reurl.cc/MkVoEW -- 挪威 2
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 1
+      - 🇺🇸 reurl.cc/MkVoEW -- 北美地区 8
+      - 🇲🇾 reurl.cc/MkVoEW -- 马来西亚 1
+      - 🇪🇺 reurl.cc/MkVoEW -- 欧洲 1
+      - 🇬🇧 reurl.cc/MkVoEW -- 英国 2
+      - reurl.cc/MkVoEW -- 挪威 3
+      - reurl.cc/MkVoEW -- 挪威 4
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
